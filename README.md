@@ -11,3 +11,9 @@
 Сбор исходных и генерирование тестовых данных для тестирования на основе алгоритма Pairwise.
 
 [Ссылка на ПЗ 3.7](https://docs.google.com/spreadsheets/d/1hgdUsjy2CFzaosd-bASMA4fsLDs1Q12ddQ1Bgex4sI8/edit?usp=drive_link)
+
+### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 3.12
+
+Создание таблицы принятия решений на основе данных для проведения транзакции с аккаунта PayPal.
+
+[Ссылка на ПЗ 3.12](https://docs.google.com/spreadsheets/d/17IERxCjOmPCXiEWpWU486j_52NVKNLpeL3bIN-cybcw/edit?usp=drive_link)
